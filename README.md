@@ -13,9 +13,10 @@ This study investigates job satisfaction and work-life balance among IT professi
 │   │   └── data.csv            # Primary survey data
 │   ├── project summary/        
 │   │   └── analysis_summary.md # Key insights and executive summary
+│   │   └── report.pdf          # Full project report (85 pages)
 │   └── src/                    # Analysis scripts
 │       └── R code.R            # Statistical analysis and visualization code
-├── report.pdf                  # Full project report (85 pages)
+├── README
 └── LICENSE                     # Project license
 ```
 
